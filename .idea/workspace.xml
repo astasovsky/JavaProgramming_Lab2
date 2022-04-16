@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6333f1c-72aa-42c8-a4b4-e51abd19bd33" name="Changes" comment="Example 2.4. Done">
-      <change afterPath="$PROJECT_DIR$/Example2.5/Example2.5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example2.5/src/Example5.java" afterDir="false" />
+    <list default="true" id="d6333f1c-72aa-42c8-a4b4-e51abd19bd33" name="Changes" comment="Example 2.5. Done">
+      <change afterPath="$PROJECT_DIR$/Task2.2/src/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -56,7 +55,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Example5">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example4" />
       <module name="Example2.4" />
@@ -67,13 +66,6 @@
     <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example5" />
       <module name="Example2.5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rec1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rec1" />
-      <module name="Example2.1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="Task2.2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Example5" />
         <item itemvalue="Application.Example4" />
         <item itemvalue="Application.Rec3" />
         <item itemvalue="Application.Rec2" />
-        <item itemvalue="Application.Rec1" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650118213332</updated>
-      <workItem from="1650118218267" duration="7205000" />
+      <workItem from="1650118218267" duration="12029000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1650118863792</created>
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650125096149</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Example 2.5. Done">
+      <created>1650128344717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650128344717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +177,7 @@
     <MESSAGE value="Example 2.2. Done" />
     <MESSAGE value="Example 2.3. Done" />
     <MESSAGE value="Example 2.4. Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Example 2.4. Done" />
+    <MESSAGE value="Example 2.5. Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example 2.5. Done" />
   </component>
 </project>
